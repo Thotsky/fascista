@@ -1,0 +1,25 @@
+state={
+	id=791
+	name="STATE_791"
+	state_category = town
+	provinces={
+		11288 11316 11343 11372 9306 11260 9252
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	history={
+		owner = POL
+		victory_points = {
+			11372 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			11372 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = POL
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=789
+	name="STATE_789"
+	state_category = town
+	provinces={
+		11845 9894 6942 6957 3985 6983 6614 9586 6619
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	history={
+		owner = ITA
+		victory_points = {
+			6983 3
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 2
+		}
+		add_core_of = ITA
+		add_core_of = BOS
+	}
+
+}
