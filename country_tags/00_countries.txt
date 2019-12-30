@@ -1,0 +1,5 @@
+ITA	= "countries/Itay.txt"
+BUL = "countries/Bulgaria.txt"
+SER = "countries/Serbia.txt"
+HUN = "countries/Hungary.txt"
+ROM = "countries/Romania.txt"
