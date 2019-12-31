@@ -1,0 +1,19 @@
+state={
+	id=794
+	name="STATE_794"
+	state_category = town
+	provinces={
+		11560 589 3574
+	}
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 2
+		}
+	add_core_of = GER
+}
+	manpower=10
+	buildings_max_level_factor=1.000
+}

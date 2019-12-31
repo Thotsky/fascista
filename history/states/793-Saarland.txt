@@ -1,0 +1,23 @@
+state={
+	id=793
+	name="STATE_793"
+	state_category = rural
+	provinces={
+		11531 563 3558 11547
+	}
+	history={
+		owner = GER
+		victory_points = {
+			11531 5 
+		}
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 2
+		}
+		add_core_of = GER
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+}
