@@ -1,0 +1,22 @@
+state={
+	id=795
+	name="STATE_795"
+	state_category = rural
+	provinces={
+		6786 11716 9728 9732 3770 11593 3594 9748 769 3754
+	}
+	history=
+	{
+	victory_points = {
+			3594 3 
+		}
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = FRA
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+}
