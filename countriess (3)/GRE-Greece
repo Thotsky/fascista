@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 0 138 230 }
+
+GRE = {
+	color = rbg { 0 138 230 }
+	color_ui = rbg { 0 138 230 }
