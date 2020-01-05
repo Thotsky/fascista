@@ -34,8 +34,8 @@ CZE = {	color = rgb { 20 149 154 }
 		color_ui = rgb { 20 149 154 }
 }
 POL = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 255 120 138 }
+	color = rgb { 255 98 98 }
+	color_ui = rgb { 255 98 98 }
 }
 AUS = {
 	color = rgb { 194 198 215 }
