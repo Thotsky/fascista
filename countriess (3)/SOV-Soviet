@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 182 13 24 }
+
+SOV = {
+	color = rbg { 182 13 24 }
+	color_ui = rbg { 182 13 24 }

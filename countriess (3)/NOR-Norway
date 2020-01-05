@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 149 69 53 }
+
+NOR = {
+	color = rbg { 149 69 53 }
+	color_ui = rbg { 149 69 53 }

@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 22 199 28 }
+
+IRE = {
+	color = rbg { 22 199 28 }
+	color_ui = rbg { 22 199 28 }

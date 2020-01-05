@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 230 23 0 }
+
+Turkey = {
+	color = rbg { 230 23 0 }
+	color_ui = rbg { 230 23 0 }
