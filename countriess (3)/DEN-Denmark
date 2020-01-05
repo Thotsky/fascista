@@ -4,4 +4,4 @@ color = { 183 41 25 }
 
 DEN = {
 	color = rbg { 183 41 25 }
-	color_ui = rbg { 183 41 25 }D
+	color_ui = rbg { 183 41 25 }
