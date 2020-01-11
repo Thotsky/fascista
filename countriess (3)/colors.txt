@@ -1,7 +1,7 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 67 70 85 }
+	color = rgb { 67 70 85 }
 	color_ui = rgb { 67 70 85 }
 }
 ENG = {
@@ -33,9 +33,8 @@ HOL = {	color = rgb { 243 165 30 }
 CZE = {	color = rgb { 20 149 154 }
 		color_ui = rgb { 20 149 154 }
 }
-POL = {
-	color = rgb { 255 98 98 }
-	color_ui = rgb { 255 98 98 }
+POL = { color = rgb { 239 90 90 }
+	        color_ui = rgb { 239 90 90 }
 }
 AUS = {
 	color = rgb { 194 198 215 }
