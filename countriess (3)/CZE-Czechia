@@ -1,7 +1,7 @@
 graphical_culture = middle_eastern_gfx
 graphical_culture_2d = middle_eastern_2d
-color = { 20 149 154 }
+color = { 26 129 166 }
 
 CZE	 = {
-	color = rbg { 20 149 154 }
-	color_ui = rbg { 20 149 154 }
+	color = rbg { 26 129 166 }
+	color_ui = rbg { 26 129 166 }
