@@ -1,8 +1,0 @@
-graphical_culture = middle_eastern_gfx
-graphical_culture_2d = middle_eastern_2d
-color = { 30 112 0 }
-
-ITA = {
-	color = rbg { 30 112 0 }
-	color_ui = rbg { 30 112 0 }
-}

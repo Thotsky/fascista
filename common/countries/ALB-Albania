@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 23 82 162 }
+
+ALB = {
+	color = rbg { 166 30 103 }
+	color_ui = rbg { 166 30 103 }

@@ -1,7 +1,0 @@
-graphical_culture = middle_eastern_gfx
-graphical_culture_2d = middle_eastern_2d
-color = { 200 222 232 }
-
-FIN = {
-	color = rbg { 200 222 232 }
-	color_ui = rbg { 200 222 232 }

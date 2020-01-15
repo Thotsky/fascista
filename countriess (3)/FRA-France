@@ -1,7 +1,0 @@
-graphical_culture = middle_eastern_gfx
-graphical_culture_2d = middle_eastern_2d
-color = { 23 82 162 }
-
-FRA = {
-	color = rbg { 23 82 162 }
-	color_ui = rbg { 23 82 162 }

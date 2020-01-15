@@ -1,7 +1,0 @@
-graphical_culture = middle_eastern_gfx
-graphical_culture_2d = middle_eastern_2d
-color = { 199 116 8 }
-
-SPA = {
-	color = rbg { 199 116 8 }
-	color_ui = rbg { 199 116 8 }

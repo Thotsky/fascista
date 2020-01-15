@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 26 129 166 }
+
+CZE	 = {
+	color = rbg { 26 129 166 }
+	color_ui = rbg { 26 129 166 }

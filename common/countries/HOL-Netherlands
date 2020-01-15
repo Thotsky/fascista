@@ -1,0 +1,7 @@
+graphical_culture = middle_eastern_gfx
+graphical_culture_2d = middle_eastern_2d
+color = { 243 165 30 }
+
+NET = {
+	color = rbg { 243 165 30 }
+	color_ui = rbg { 243 165 30 }

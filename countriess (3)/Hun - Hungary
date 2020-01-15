@@ -1,8 +1,0 @@
-graphical_culture = middle_eastern_gfx
-graphical_culture_2d = middle_eastern_2d
-color = { 198 143 34 }
-
-HUN = {
-	color = rbg { 198 143 34 }
-	color_ui = rbg { 198 143 34 }
-}
