@@ -1,0 +1,452 @@
+ideologies = {
+#
+			Authoritarian_Socialism = {
+	
+		types = {
+			Authoritarian_Socialism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 155 59 59 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = -0.1
+			annex_cost_factor = -0.1
+			justify_war_goal_when_in_major_war_time = -0.5
+			drift_defence_factor = 0.2
+			puppet_cost_factor = -0.25
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Libertarian_Socialism = {
+	
+		types = {
+			Libertarian_Socialism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 255 53 94 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = -0.25
+			drift_defence_factor = 0.1
+			puppet_cost_factor = -0.15
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Social_Democracy = {
+	
+		types = {
+			Social_Democracy
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 255 0 0 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.15
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.3
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Social_Liberalism = {
+	
+		types = {
+			Social_Liberalism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 100 20 37 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.15
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.3
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Market_Liberalism = {
+	
+		types = {
+			Market_Liberalism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 68 85 90 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.15
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.3
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Social_Conservative = {
+	
+		types = {
+			Social_Conservative
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 51 51 255 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.15
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.3
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Authoritarian_Conservative = {
+	
+		types = {
+			Authoritarian_Conservative
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 51 51 255 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.1
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.05
+			join_faction_tension = 0.15
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.1
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Regressive_Fascism = {
+	
+		types = {
+			Regressive_Fascism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 102 51 0 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = 0
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Revolutionary_Fascism = {
+	
+		types = {
+			Revolutionary_Fascism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 165 42 42 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0.2
+			puppet_cost_factor = -0.2
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+#
+			Esoteric_Fascism = {
+	
+		types = {
+			Esoteric_Fascism
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 165 104 42 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+		}
+
+                can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0.2
+			puppet_cost_factor = -0.2
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		ai_<ideology> = yes
+	}
+}
