@@ -3,7 +3,7 @@ ideologies = {
 			Authoritarian_Socialism = {
 	
 		types = {
-			Authoritarian_Socialism
+			Authoritarian_Socialism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -42,13 +42,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Libertarian_Socialism = {
 	
 		types = {
-			Libertarian_Socialism
+			Libertarian_Socialism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -87,13 +87,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Social_Democracy = {
 	
 		types = {
-			Social_Democracy
+			Social_Democracy = {}
 		}
 		
 		dynamic_faction_names = {
@@ -132,13 +132,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Social_Liberalism = {
 	
 		types = {
-			Social_Liberalism
+			Social_Liberalism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -177,13 +177,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Market_Liberalism = {
 	
 		types = {
-			Market_Liberalism
+			Market_Liberalism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -222,13 +222,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Social_Conservative = {
 	
 		types = {
-			Social_Conservative
+			Social_Conservative = {}
 		}
 		
 		dynamic_faction_names = {
@@ -267,13 +267,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Authoritarian_Conservative = {
 	
 		types = {
-			Authoritarian_Conservative
+			Authoritarian_Conservative = {}
 		}
 		
 		dynamic_faction_names = {
@@ -312,13 +312,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Regressive_Fascism = {
 	
 		types = {
-			Regressive_Fascism
+			Regressive_Fascism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -357,13 +357,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Revolutionary_Fascism = {
 	
 		types = {
-			Revolutionary_Fascism
+			Revolutionary_Fascism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -402,13 +402,13 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 #
 			Esoteric_Fascism = {
 	
 		types = {
-			Esoteric_Fascism
+			Esoteric_Fascism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -447,6 +447,6 @@ ideologies = {
 		can_be_boosted = yes
 		can_collaborate = yes
 		
-		ai_<ideology> = yes
+		#ai_<ideology> = yes
 	}
 }
