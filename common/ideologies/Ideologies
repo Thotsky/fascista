@@ -9,7 +9,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 155 59 59 }
+		color = { 141 22 22 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -54,7 +54,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 255 53 94 }
+		color = { 255 70 88 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -99,7 +99,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 255 0 0 }
+		color = { 245 57 107 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -144,7 +144,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 100 20 37 }
+		color = { 243 146 0 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -189,7 +189,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 68 85 90 }
+		color = { 188 242 13 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -234,7 +234,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 51 51 255 }
+		color = {8 200 247 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -279,7 +279,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 51 51 255 }
+		color = { 84 116 171 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -324,7 +324,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 102 51 0 }
+		color = { 23 121 62 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -369,7 +369,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 165 42 42 }
+		color = { 219 94 11 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -414,7 +414,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 		
-		color = { 165 104 42 }
+		color = { 34 152 152 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
