@@ -360,10 +360,10 @@ ideologies = {
 		#ai_<ideology> = yes
 	}
 #
-			Revolutionary_Fascism = {
+			RevFascism = {
 	
 		types = {
-			Revolutionary_Fascism = {}
+			RevFascism = {}
 		}
 		
 		dynamic_faction_names = {
