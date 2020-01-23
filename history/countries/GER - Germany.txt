@@ -105,7 +105,7 @@ create_import = {
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = RevFascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -136,7 +136,7 @@ create_country_leader = {
 	desc = "POLITICS_ERNST_JUNGER_DESC"
 	picture = "Portrait_North_Germany_Ernst_Junger.tga"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = RevFascism
 	traits = {
 		dictator
 	}
